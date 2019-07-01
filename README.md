@@ -26,13 +26,13 @@ Insert your desired search term in place of example.
 The command do-what-it-says pulls the information from the random.txt. Edit the information in that to get a different search result.
 
 ## Demonstration
-#### Spotify This Song
+### Spotify This Song
 <img src="spotify-this-song.gif" width="600">
-#### Concert This
+### Concert This
 <img src="concert-this.gif" width="600">
-#### Movie This
+### Movie This
 <img src="movie-this.gif" width="600">
-#### Do What It Says
+### Do What It Says
 <img src="do-this.gif" width="600">
 
 
