@@ -15,10 +15,11 @@ Type in node liri in your terminal(make sure the current directory is the liri-n
 <br>
 Use one of the following commands
 
-```js
+```terminal
 node liri.js spotify-this-song example song name
 node liri.js concert-this example artist name
 node liri.js movie-this example movie name
+node liri.js do-what-it-says
 ```
 
 
