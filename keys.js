@@ -5,13 +5,11 @@ exports.spotify = {
     secret: process.env.SPOTIFY_SECRET,
 };
 
-exports.bands = {
-    id: process.env.BANDS_ID
-};
+exports.bands=process.env.BANDS_ID
 
-exports.movies = {
-    id: process.env.MOVIES_ID
-}
+
+exports.movies = process.env.MOVIES_ID
+
 /* const db = require('db')
 db.connect({
     host: process.env.DB_HOST,
