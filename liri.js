@@ -139,7 +139,7 @@ function movieThis(movieTitle) {
     var URL = "http://www.omdbapi.com/?t=" + movieTitle + "&apikey=" + mKey
     axios.get(URL).then(function(response){
         var jsonData =  response.data
-     //   console.log(jsonData)
+  //      console.log(jsonData)
         var title = jsonData.Title
         var year = jsonData.Year
         var rating = jsonData.imdbRating
