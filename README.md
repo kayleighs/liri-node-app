@@ -27,11 +27,14 @@ The command do-what-it-says pulls the information from the random.txt. Edit the 
 
 ## Demonstration
 ### Spotify This Song
-<img src="spotify-this-song.gif" width="600">
+<img src="./assets/spotify-this-song.gif" width="600">
+
 ### Concert This
 <img src="concert-this.gif" width="600">
+
 ### Movie This
 <img src="movie-this.gif" width="600">
+
 ### Do What It Says
 <img src="do-this.gif" width="600">
 
