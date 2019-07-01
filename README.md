@@ -25,19 +25,24 @@ Use one of the following commands:
 ## Demonstration
 ### Spotify This Song
 <img src="./assets/spotify-this-song.gif" width="600">
+
  * Shows the following information about the song.
     * Artist(s)
     * The song's name
     * A preview link of the song from Spotify
     * The album that the song is from
+
 ### Concert This
 <img src="./assets/concert-this.gif" width="600">
+
 * Shows the following information about the song.
     * Name of the venue
     * Venue location
     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+
 ### Movie This
 <img src="./assets/movie-this.gif" width="600">
+ 
   * Shows the following information.
     * Title of the movie.
     * Year the movie came out.
@@ -49,6 +54,7 @@ Use one of the following commands:
     * Actors in the movie.
 ### Do What It Says
 <img src="./assets/do-this.gif" width="600">
+  
   * Pulls the information from the random.txt. Edit the information in that to get a different search result.
 
 ## Built With
