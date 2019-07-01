@@ -11,19 +11,31 @@ Install the required packages.
 <br>
 An env is required with the  keys to the API.
 ### To Use
-Type in node liri in your terminal(make sure the current directory is the liri-node-app folder)
+Type in node liri in your terminal (make sure the current directory is the liri-node-app folder)
 <br>
-Use one of the following commands
+Use one of the following commands:
 
 ```terminal
-node liri.js spotify-this-song example song name
-node liri.js concert-this example artist name
-node liri.js movie-this example movie name
+node liri.js spotify-this-song example(song name)
+node liri.js concert-this example(artist name)
+node liri.js movie-this example(movie name)
 node liri.js do-what-it-says
 ```
+Insert your desired search term in place of example.
+<br>
+The command do-what-it-says pulls the information from the random.txt. Edit the information in that to get a different search result.
+
+## Demonstration
+#### Spotify This Song
+<img src="spotify-this-song.gif" width="600">
+#### Concert This
+<img src="concert-this.gif" width="600">
+#### Movie This
+<img src="movie-this.gif" width="600">
+#### Do What It Says
+<img src="do-this.gif" width="600">
 
 
-<img src="spotify-this-song" width="600">
 ## Built With
 * node.js
 * fs from npm
