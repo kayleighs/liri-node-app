@@ -193,5 +193,4 @@ function doThis(){
         logTerm(thisMovie)
         movieThis(thisMovie);
     })
-
-}
+};
